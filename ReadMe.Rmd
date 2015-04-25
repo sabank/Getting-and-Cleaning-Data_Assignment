@@ -1,0 +1,23 @@
+READ ME
+==============================================================================
+author: "Sabank"
+date: "25 April 2015"
+
+This assignment is conducted within the scope of Coursera Getting and Cleaning
+Data course. The purpose of this project is to demonstrate the ability to collect,
+work with, and clean a data set. For this, we need to prepare tidy data that can
+be used for later analysis.
+
+
+
+```{r}
+summary(cars)
+```
+
+You can also embed plots, for example:
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
