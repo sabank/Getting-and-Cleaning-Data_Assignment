@@ -32,7 +32,7 @@ The script "run_analysis" processes the following data:
 
 - 'zipfilName': store zip file in working directory
 
-- 'dateDownloaded': capture data of download
+- 'dateDownloaded': capture date of download
 
 - 'path, pathtest, pathtrain': define path to parent and children folders
 
